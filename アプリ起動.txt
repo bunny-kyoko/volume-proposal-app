@@ -1,0 +1,5 @@
+
+cd C:\Users\VivoNote01\Desktop\アプリ元\ボリュームアプリ
+
+streamlit run app.py
+streamlit run app2.py
